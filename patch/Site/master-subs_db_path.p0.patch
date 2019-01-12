@@ -1,0 +1,17 @@
+diff --git myexampleApp/Db/user.substitutions myexampleApp/Db/user.substitutions
+index abfa222..1b61b2c 100644
+--- myexampleApp/Db/user.substitutions
++++ myexampleApp/Db/user.substitutions
+@@ -1,10 +1,10 @@
+ # Example substitutions file
+ 
+-file "db/dbExample1.db" {
++file "dbExample1.db" {
+     { user = "jhlee" }
+ }
+ 
+-file db/dbExample2.db {
++file dbExample2.db {
+     pattern { user, no, scan }
+         { "jhlee", 1, "1 second" }
+         { "jhlee", 2, "2 second" }
