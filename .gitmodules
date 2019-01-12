@@ -1,0 +1,4 @@
+[submodule "myexample"]
+	path = myexample
+	url = https://github.com/icshwi/myexample
+	ignore = all

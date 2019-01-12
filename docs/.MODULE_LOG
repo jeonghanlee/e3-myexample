@@ -1,0 +1,20 @@
+>>
+Script is used     : e3TemplateGenerator.bash
+Script Path        : /home/jhlee/ics_gitsrc/e3-tools/e3TemplateGenerator
+User               : jhlee
+Log Time           : 2019Jan12-0125-22CET
+e3 repo Hash       : 462fe5f
+
+>>
+>> Your sources are located in https://github.com/icshwi.
+>> git submodule will be used.
+>> 
+EPICS_MODULE_NAME  : myexample
+E3_MODULE_SRC_PATH : myexample
+EPICS_MODULE_URL   : https://github.com/icshwi
+E3_TARGET_URL      : https://github.com/jeonghanlee
+>> 
+e3 module name     : e3-myexample
+e3 module url full : https://github.com/icshwi/myexample
+e3 target url full : https://github.com/jeonghanlee/e3-myexample
+>> 
